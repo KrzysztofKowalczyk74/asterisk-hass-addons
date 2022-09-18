@@ -2,6 +2,10 @@
 
 # Changelog
 
+## 2.3.2.2
+
+- Chan_sip added
+
 ## 2.3.2
 
 - Upgrade Asterisk from 18.12.1 to 18.14.0 (by @felipecrs)
